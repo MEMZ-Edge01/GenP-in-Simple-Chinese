@@ -8,3 +8,18 @@ GenP-Adobe破解打补丁软件的汉化版
 2.点击搜索按钮。
 
 3.点击破解按扭。
+
+How to use GenP:
+
+If you want to patch all Adobe apps in default location:
+
+Press ‘Search Files’ – wait until GenP finds all files.
+
+Press ‘Pill Button’ – wait until GenP do it’s job.
+One Adobe app at a time:
+
+Press ‘Custom path’ – select folder that you want [depending upon the app you want to patch]
+
+Press ‘Search Files’ – wait until GenP finds all files.
+
+Press ‘Pill Button’ – wait until GenP do it’s job.
